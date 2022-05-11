@@ -33,7 +33,8 @@ in order to apply the model.
 - Move drone up, down, left, right.
 
 ## Setup
-Everything is run on Jupyter Notebook. Could be done on google colab as well.
+-Everything is run on Jupyter Notebook. Could be done on google colab as well.
+-Technologies must be downloaded as well. All searchable on https://pypi.org/ and can be installed with pip.
 Link for Jupyter Notebook: https://jupyter.org/
 
 ## Project Status
