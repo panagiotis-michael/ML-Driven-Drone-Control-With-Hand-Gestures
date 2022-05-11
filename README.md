@@ -37,7 +37,7 @@ in order to apply the model.
 - Link for Jupyter Notebook: https://jupyter.org/
 
 ## Project Status
-Project is: complete (features can be added).
+- Project is: complete (features can be added).
 
 
 ## Room for Improvement
