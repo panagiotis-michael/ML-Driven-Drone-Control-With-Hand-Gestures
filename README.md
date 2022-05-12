@@ -43,6 +43,7 @@ in order to apply the model.
 ## Room for Improvement
 
 Room for improvement:
+- Improve accuracy using drone camera.
 - Add more hand gestures.
 - Add more moving functionality.
 
