@@ -9,7 +9,6 @@
 * [Project Status](#project-status)
 * [Room for Improvement](#room-for-improvement)
 * [Contact](#contact)
-<!-- * [License](#license) -->
 
 
 ## General Information
@@ -33,11 +32,12 @@ in order to apply the model.
 - Move drone up, down, left, right.
 
 ## Setup
-Everything is run on Jupyter Notebook. Could be done on google colab as well.
-Link for Jupyter Notebook: https://jupyter.org/
+- Everything is run on Jupyter Notebook. Could be done on google colab as well.
+- Technologies must be downloaded as well. All searchable on https://pypi.org/ and can be installed with pip.
+- Link for Jupyter Notebook: https://jupyter.org/
 
 ## Project Status
-Project is: complete (features can be added).
+- Project is: complete (features can be added).
 
 
 ## Room for Improvement
